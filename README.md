@@ -3,17 +3,17 @@ SD Kohauchanz for Unity2021.
 
 Distributed under a unity-chan license.
 
-See below file.
-English:  README_EN.txt
-Japanese: README_JP.txt
+See below file.  
+English: README_EN.txt  
+Japanese: README_JP.txt  
 
 
 # What the unity-chan license
 The unity-chan license is a license defined by Unity Technologies.
 
-See below license file.
-English:  LICENSE_EN
-Japanese: LICENSE_JP
+See below license file.  
+English: LICENSE_EN  
+Japanese: LICENSE_JP  
 
-(The MIT license displayed on the site is incorrect. This is because GITHUB does not support other licenses)
+(The MIT license displayed on the site is incorrect. Because GITHUB does not support other licenses)
 
